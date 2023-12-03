@@ -28,7 +28,7 @@ In this project, we focus exclusively on the `person` class in object detection.
 
 YOLOv8m shows higher values in all three metrics, indicating better performance in terms of accurately identifying and localizing persons in the images.
 
-## Model Performance Comparison (All)
+## Model Performance Comparison (Final Results (All))
 
 | Model                    | Precision | Recall | mAP (50) | mAP (50-95) | Inference Time (ms) |
 | ------------------------ | ----------| ------ | -------- | ----------- | -------------------- |
