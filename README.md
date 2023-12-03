@@ -1,7 +1,7 @@
 # Person Detection
 This is a group project for object detection topic in Bootcamp Indonesia AI Computer Vision Batch 3
 
-## Our group member:
+## Team member:
 1. Fathurrahman Hernanda Khasan
 2. Fitrah Ramadhan Reza
 3. Harrison 
