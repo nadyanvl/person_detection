@@ -20,6 +20,7 @@ In this project, we focus exclusively on the `person` class in object detection.
 2. Faster R-CNN is a two-stage object detection method. It first proposes potential object regions using a region proposal network and then accurately classifies and refines these regions. While it may be a bit slower than YOLO, it excels in tasks demanding precise localization. 
 
 ## Training Results of YOLOv8n and YOLOv8m
+[Notebook Folder](https://github.com/nadyanvl/person_detection/tree/main/Personal%20Notebook)
 
 | No. | Model    | Epoch | Batch | Precision (%) | Recall (%) | mAP@50 (%) |
 | --- | -------- | ----- | ----- | ------------- | ---------- | ---------- |
@@ -29,6 +30,7 @@ In this project, we focus exclusively on the `person` class in object detection.
 YOLOv8m shows higher values in all three metrics, indicating better performance in terms of accurately identifying and localizing persons in the images.
 
 ## Model Performance Comparison (Final Results (All))
+[Notebook Folder](https://github.com/nadyanvl/person_detection/tree/main/All%20Team%20Member%20Notebook)
 
 | Model                    | Precision | Recall | mAP (50) | mAP (50-95) | Inference Time (ms) |
 | ------------------------ | ----------| ------ | -------- | ----------- | -------------------- |
@@ -42,5 +44,8 @@ YOLOv8m shows higher values in all three metrics, indicating better performance 
 Among the models evaluated, Faster R-CNN with ResNet50 FPN demonstrates high evaluation results, showcasing commendable precision, recall, and mAP scores. Despite a slightly longer inference time compared to YOLOv8, it remains a strong contender, offering a balance between speed and performance.
 
 However, for scenarios requiring real-time detection, YOLOv8 emerges as the overall best performer, showcasing impressive precision, recall, and mAP scores, coupled with efficient inference times. Its well-rounded performance positions YOLOv8 as the top choice, particularly in applications where swift and accurate object detection in real-time is paramount.
+
+## Team Member
+Fathurrahman Hernanda Khasan, Fitrah Ramadhan Reza, Harrison, Hendra Ronaldi, Hilmy Rahmadani, I Putu Ananta Yogiswara, Nadya Novalina, Satriaji Najha Darmawan, Tri Wahyu Prabowo, Yurixa Sakhinatul Putri
 
 
